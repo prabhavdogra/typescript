@@ -263,7 +263,7 @@
 	}
 
 // Typescript #20: Tuples
-let tup: [string, number, boolean] = ['ryu', 25, true];
+	let tup: [string, number, boolean] = ['ryu', 25, true];
 
 // Typescript #21: Wrap Up
 	// See video for a summary of what we learned in this course
